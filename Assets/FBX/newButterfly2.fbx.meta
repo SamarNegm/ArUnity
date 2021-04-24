@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: fd8774a2ddf2e00428331231429e1f1a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body:butterfly:pCube1
+    100002: body:butterfly:polySurface1
+    100004: body:butterfly:polySurface2
+    100006: body:butterfly:polySurface3
+    100008: body:butterfly:pSphere1
+    100010: body:butterfly:pSphere2
+    100012: body:butterfly:pSphere3
+    100014: body:butterfly:transform1
+    100016: body:butterfly:transform2
+    100018: body:butterfly:transform3
+    100020: body:butterfly:transform4
+    100022: Leftwing:butterfly:pCube1
+    100024: Leftwing:butterfly:polySurface3
+    100026: Leftwing:butterfly:pSphere1
+    100028: Leftwing:butterfly:pSphere2
+    100030: Leftwing:butterfly:pSphere3
+    100032: Leftwing:butterfly:transform1
+    100034: Leftwing:butterfly:transform2
+    100036: Leftwing:butterfly:transform3
+    100038: Leftwing:butterfly:transform4
+    100040: Leftwing:wings:butterfly:pCube1
+    100042: Leftwing:wings:butterfly:pSphere1
+    100044: Leftwing:wings:butterfly:pSphere2
+    100046: Leftwing:wings:butterfly:pSphere3
+    100048: Leftwing:wings:butterfly:transform1
+    100050: Leftwing:wings:butterfly:transform2
+    100052: Leftwing:wings:butterfly:transform3
+    100054: Leftwing:wings:butterfly:transform4
+    100056: //RootNode
+    100058: rightwing:group
+    100060: rightwing:pasted__pCube1
+    100062: rightwing:pasted__polySurface3
+    100064: rightwing:pasted__pSphere1
+    100066: rightwing:pasted__pSphere2
+    100068: rightwing:pasted__pSphere3
+    100070: rightwing:pasted__transform1
+    100072: rightwing:pasted__transform2
+    100074: rightwing:pasted__transform3
+    100076: rightwing:pasted__transform4
+    400000: body:butterfly:pCube1
+    400002: body:butterfly:polySurface1
+    400004: body:butterfly:polySurface2
+    400006: body:butterfly:polySurface3
+    400008: body:butterfly:pSphere1
+    400010: body:butterfly:pSphere2
+    400012: body:butterfly:pSphere3
+    400014: body:butterfly:transform1
+    400016: body:butterfly:transform2
+    400018: body:butterfly:transform3
+    400020: body:butterfly:transform4
+    400022: Leftwing:butterfly:pCube1
+    400024: Leftwing:butterfly:polySurface3
+    400026: Leftwing:butterfly:pSphere1
+    400028: Leftwing:butterfly:pSphere2
+    400030: Leftwing:butterfly:pSphere3
+    400032: Leftwing:butterfly:transform1
+    400034: Leftwing:butterfly:transform2
+    400036: Leftwing:butterfly:transform3
+    400038: Leftwing:butterfly:transform4
+    400040: Leftwing:wings:butterfly:pCube1
+    400042: Leftwing:wings:butterfly:pSphere1
+    400044: Leftwing:wings:butterfly:pSphere2
+    400046: Leftwing:wings:butterfly:pSphere3
+    400048: Leftwing:wings:butterfly:transform1
+    400050: Leftwing:wings:butterfly:transform2
+    400052: Leftwing:wings:butterfly:transform3
+    400054: Leftwing:wings:butterfly:transform4
+    400056: //RootNode
+    400058: rightwing:group
+    400060: rightwing:pasted__pCube1
+    400062: rightwing:pasted__polySurface3
+    400064: rightwing:pasted__pSphere1
+    400066: rightwing:pasted__pSphere2
+    400068: rightwing:pasted__pSphere3
+    400070: rightwing:pasted__transform1
+    400072: rightwing:pasted__transform2
+    400074: rightwing:pasted__transform3
+    400076: rightwing:pasted__transform4
+    2100000: body_butterfly_phong1
+    2100002: body_butterfly_body
+    2100004: body_butterfly_black
+    2100006: lambert3
+    2100008: lambert2
+    2300000: body:butterfly:polySurface1
+    2300002: body:butterfly:polySurface2
+    2300004: body:butterfly:polySurface3
+    2300006: Leftwing:butterfly:polySurface3
+    2300008: rightwing:pasted__polySurface3
+    3300000: body:butterfly:polySurface1
+    3300002: body:butterfly:polySurface2
+    3300004: body:butterfly:polySurface3
+    3300006: Leftwing:butterfly:polySurface3
+    3300008: rightwing:pasted__polySurface3
+    4300000: body:butterfly:polySurface1
+    4300002: body:butterfly:polySurface2
+    4300004: body:butterfly:polySurface3
+    4300006: rightwing:pasted__polySurface3
+    4300008: Leftwing:butterfly:polySurface3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

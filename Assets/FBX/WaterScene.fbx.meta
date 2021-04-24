@@ -1,0 +1,831 @@
+fileFormatVersion: 2
+guid: fcefd7bed9214864cacdd39791a70bbf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _Round_Table_with_Tablecloth_v1_L4:_Round_Table_with__Tablecloth
+    100002: _Spoon_v1_Iterations_1:_Spoon
+    100004: arrow
+    100006: Bridge:Group2
+    100008: cup
+    100010: floor
+    100012: group1
+    100014: Group2
+    100016: ice1
+    100018: kettle1
+    100020: kitchen_cabinet_Door7
+    100022: mug
+    100024: mug1
+    100026: pCone1
+    100028: pCube1
+    100030: pCube3
+    100032: pCube4
+    100034: pCylinder1
+    100036: polySurface112
+    100038: polySurface21
+    100040: polySurface51
+    100042: polySurface64
+    100044: polySurface65
+    100046: polySurface66
+    100048: polySurface67
+    100050: polySurface68
+    100052: polySurface69
+    100054: polySurface70
+    100056: polySurface71
+    100058: polySurface72
+    100060: polySurface73
+    100062: polySurface74
+    100064: polySurface75
+    100066: polySurface76
+    100068: polySurface77
+    100070: polySurface78
+    100072: polySurface79
+    100074: polySurface80
+    100076: polySurface81
+    100078: polySurface82
+    100080: polySurface83
+    100082: polySurface84
+    100084: polySurface85
+    100086: polySurface86
+    100088: polySurface87
+    100090: polySurface88
+    100092: polySurface89
+    100094: polySurface90
+    100096: polySurface91
+    100098: polySurface92
+    100100: polySurface92 1
+    100102: polySurface93
+    100104: polySurface94
+    100106: polySurface95
+    100108: polySurface96
+    100110: pPlane1
+    100112: pPlane2
+    100114: pSphere1
+    100116: SnowMan_CG:scarf3
+    100118: test_mountain:TerrainMesh
+    100120: transform10
+    100122: transform100
+    100124: transform101
+    100126: transform102
+    100128: transform60
+    100130: transform61
+    100132: transform62
+    100134: transform63
+    100136: transform64
+    100138: transform65
+    100140: transform66
+    100142: transform67
+    100144: transform68
+    100146: transform69
+    100148: transform70
+    100150: transform71
+    100152: transform72
+    100154: transform73
+    100156: transform74
+    100158: transform75
+    100160: transform76
+    100162: transform77
+    100164: transform78
+    100166: transform79
+    100168: transform80
+    100170: transform81
+    100172: transform82
+    100174: transform83
+    100176: transform84
+    100178: transform85
+    100180: transform86
+    100182: transform87
+    100184: transform88
+    100186: transform89
+    100188: transform90
+    100190: transform91
+    100192: transform92
+    100194: transform93
+    100196: transform94
+    100198: transform95
+    100200: transform96
+    100202: transform97
+    100204: transform98
+    100206: transform99
+    100208: typeMesh1
+    100210: typeMesh2
+    100212: typeMesh3
+    100214: typeMesh4
+    100216: typeMesh5
+    100218: vsn_mesh_0_polySurface1
+    100220: vsn_mesh_0_polySurface2
+    100222: vsn_mesh_1_polySurface1
+    100224: vsn_mesh_2_polySurface1
+    100226: vsn_mesh_3_polySurface1
+    100228: vsn_mesh_4_polySurface1
+    100230: //RootNode
+    400000: _Round_Table_with_Tablecloth_v1_L4:_Round_Table_with__Tablecloth
+    400002: _Spoon_v1_Iterations_1:_Spoon
+    400004: arrow
+    400006: Bridge:Group2
+    400008: cup
+    400010: floor
+    400012: group1
+    400014: Group2
+    400016: ice1
+    400018: kettle1
+    400020: kitchen_cabinet_Door7
+    400022: mug
+    400024: mug1
+    400026: pCone1
+    400028: pCube1
+    400030: pCube3
+    400032: pCube4
+    400034: pCylinder1
+    400036: polySurface112
+    400038: polySurface21
+    400040: polySurface51
+    400042: polySurface64
+    400044: polySurface65
+    400046: polySurface66
+    400048: polySurface67
+    400050: polySurface68
+    400052: polySurface69
+    400054: polySurface70
+    400056: polySurface71
+    400058: polySurface72
+    400060: polySurface73
+    400062: polySurface74
+    400064: polySurface75
+    400066: polySurface76
+    400068: polySurface77
+    400070: polySurface78
+    400072: polySurface79
+    400074: polySurface80
+    400076: polySurface81
+    400078: polySurface82
+    400080: polySurface83
+    400082: polySurface84
+    400084: polySurface85
+    400086: polySurface86
+    400088: polySurface87
+    400090: polySurface88
+    400092: polySurface89
+    400094: polySurface90
+    400096: polySurface91
+    400098: polySurface92
+    400100: polySurface92 1
+    400102: polySurface93
+    400104: polySurface94
+    400106: polySurface95
+    400108: polySurface96
+    400110: pPlane1
+    400112: pPlane2
+    400114: pSphere1
+    400116: SnowMan_CG:scarf3
+    400118: test_mountain:TerrainMesh
+    400120: transform10
+    400122: transform100
+    400124: transform101
+    400126: transform102
+    400128: transform60
+    400130: transform61
+    400132: transform62
+    400134: transform63
+    400136: transform64
+    400138: transform65
+    400140: transform66
+    400142: transform67
+    400144: transform68
+    400146: transform69
+    400148: transform70
+    400150: transform71
+    400152: transform72
+    400154: transform73
+    400156: transform74
+    400158: transform75
+    400160: transform76
+    400162: transform77
+    400164: transform78
+    400166: transform79
+    400168: transform80
+    400170: transform81
+    400172: transform82
+    400174: transform83
+    400176: transform84
+    400178: transform85
+    400180: transform86
+    400182: transform87
+    400184: transform88
+    400186: transform89
+    400188: transform90
+    400190: transform91
+    400192: transform92
+    400194: transform93
+    400196: transform94
+    400198: transform95
+    400200: transform96
+    400202: transform97
+    400204: transform98
+    400206: transform99
+    400208: typeMesh1
+    400210: typeMesh2
+    400212: typeMesh3
+    400214: typeMesh4
+    400216: typeMesh5
+    400218: vsn_mesh_0_polySurface1
+    400220: vsn_mesh_0_polySurface2
+    400222: vsn_mesh_1_polySurface1
+    400224: vsn_mesh_2_polySurface1
+    400226: vsn_mesh_3_polySurface1
+    400228: vsn_mesh_4_polySurface1
+    400230: //RootNode
+    2100000: blinn1
+    2100002: lambert1
+    2100004: blinn2
+    2100006: blinn3
+    2100008: blinn4
+    2100010: blinn5
+    2100012: blinn6
+    2100014: blinn7
+    2100016: blinn8
+    2100018: blinn9
+    2100020: blinn10
+    2100022: blinn12
+    2100024: blinn11
+    2100026: lambert2
+    2100028: black
+    2100030: 07 - Default
+    2100032: water_cup
+    2100034: water
+    2100036: blinn29
+    2100038: lambert19
+    2100040: GlassWithWaterAndIce1_Material_006
+    2100042: GlassWithWaterAndIce1_Ice1
+    2100044: GlassWithWaterAndIce1_None1
+    2100046: blinn30
+    2100048: ice2
+    2100050: _Round_Table_with_Tablecloth_v1_L4____Default1
+    2100052: Menu_Bottle_Carafe_Set_mat2_mtl_1
+    2100054: Menu_Bottle_Carafe_Set_mat2_mtl_3
+    2100056: Menu_Bottle_Carafe_Set_mat2_mtl_4
+    2100058: Menu_Bottle_Carafe_Set_mat2_mtl_2
+    2100060: lambert12
+    2100062: phong2
+    2100064: blinn31
+    2100066: blinn32
+    2100068: Bridge_defaultMat1
+    2100070: blinn27
+    2100072: alluminium composite
+    2100074: blinn24
+    2100076: lambert15
+    2100078: lambert20
+    2100080: brz_base_com_mat_002
+    2100082: brz_stand_com_mat_002
+    2100084: brz_rose_com_mat_002
+    2100086: ripple_MT_mat_002
+    2100088: water_MT_mat_002
+    2100090: blinn36
+    2100092: blinn20
+    2100094: blinn34
+    2100096: Plastic_Dark
+    2100098: M_kitchen_cabinet1
+    2100100: blinn23
+    2100102: M_kitchen_cabinet_marble1
+    2100104: lambert1.002
+    2100106: 01 - Default
+    2100108: blinn33
+    2100110: _Spoon_v1_Iterations_1__10317_Spoon_v1_max0810317_Spoon1
+    2300000: _Round_Table_with_Tablecloth_v1_L4:_Round_Table_with__Tablecloth
+    2300002: arrow
+    2300004: Bridge:Group2
+    2300006: floor
+    2300008: Group2
+    2300010: ice1
+    2300012: kettle1
+    2300014: mug1
+    2300016: pCube1
+    2300018: pCube3
+    2300020: pCube4
+    2300022: polySurface112
+    2300024: polySurface21
+    2300026: polySurface51
+    2300028: polySurface83
+    2300030: polySurface92
+    2300032: pPlane1
+    2300034: pPlane2
+    2300036: pSphere1
+    2300038: SnowMan_CG:scarf3
+    2300040: test_mountain:TerrainMesh
+    2300042: typeMesh1
+    2300044: typeMesh2
+    2300046: typeMesh3
+    2300048: typeMesh4
+    2300050: typeMesh5
+    2300052: vsn_mesh_0_polySurface2
+    3300000: _Round_Table_with_Tablecloth_v1_L4:_Round_Table_with__Tablecloth
+    3300002: arrow
+    3300004: Bridge:Group2
+    3300006: floor
+    3300008: Group2
+    3300010: ice1
+    3300012: kettle1
+    3300014: mug1
+    3300016: pCube1
+    3300018: pCube3
+    3300020: pCube4
+    3300022: polySurface112
+    3300024: polySurface21
+    3300026: polySurface51
+    3300028: polySurface83
+    3300030: polySurface92
+    3300032: pPlane1
+    3300034: pPlane2
+    3300036: pSphere1
+    3300038: SnowMan_CG:scarf3
+    3300040: test_mountain:TerrainMesh
+    3300042: typeMesh1
+    3300044: typeMesh2
+    3300046: typeMesh3
+    3300048: typeMesh4
+    3300050: typeMesh5
+    3300052: vsn_mesh_0_polySurface2
+    4300000: pSphere1
+    4300002: SnowMan_CG:scarf3
+    4300004: kettle1
+    4300006: polySurface21
+    4300008: typeMesh1
+    4300010: pPlane1
+    4300012: ice1
+    4300014: pCube1
+    4300016: test_mountain:TerrainMesh
+    4300018: _Round_Table_with_Tablecloth_v1_L4:_Round_Table_with__Tablecloth
+    4300020: polySurface51
+    4300022: pPlane2
+    4300024: polySurface83
+    4300026: pCube3
+    4300028: typeMesh2
+    4300030: pCube4
+    4300032: typeMesh3
+    4300034: Bridge:Group2
+    4300036: Group2
+    4300038: polySurface112
+    4300040: floor
+    4300042: vsn_mesh_0_polySurface2
+    4300044: arrow
+    4300046: typeMesh4
+    4300048: typeMesh5
+    4300050: polySurface92
+    4300052: mug1
+    7400000: watercases
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: d718fdb6bb888d146a8b7e7d93ee88c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 86301872cc28cd4479666753d09c6115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bridge_defaultMat1
+    second: {fileID: 2100000, guid: c8790c6d43fe3474d93af56f86dcc152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassWithWaterAndIce1_Ice1
+    second: {fileID: 2100000, guid: 6e7ecdf8778db924eb846796c9ff2d99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassWithWaterAndIce1_Material_006
+    second: {fileID: 2100000, guid: a28b66c95f1192741a8404711a03faf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassWithWaterAndIce1_None1
+    second: {fileID: 2100000, guid: 2c068a4b9d52c684d92501ce293df0a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_kitchen_cabinet1
+    second: {fileID: 2100000, guid: 5c88bb5a143f59c4fb1a21435ebc1925, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_kitchen_cabinet_marble1
+    second: {fileID: 2100000, guid: 8557bc79f72277145b60586a894e82ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Menu_Bottle_Carafe_Set_mat2_mtl_1
+    second: {fileID: 2100000, guid: e8a4d0eae2d779a42a0cf0f18959bac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Menu_Bottle_Carafe_Set_mat2_mtl_2
+    second: {fileID: 2100000, guid: 96cf1a89e5512d54c8626289ee841008, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Menu_Bottle_Carafe_Set_mat2_mtl_3
+    second: {fileID: 2100000, guid: 1a725ff97c82c864bbd277bc856faa20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Menu_Bottle_Carafe_Set_mat2_mtl_4
+    second: {fileID: 2100000, guid: d818ed4c6cf77e649a2c3208c42bdd95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Dark
+    second: {fileID: 2100000, guid: 3d800e0a681d58c4abc8e356a85339fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Round_Table_with_Tablecloth_v1_L4____Default1
+    second: {fileID: 2100000, guid: 7688cc76168766f4bad7b4b898101bea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Spoon_v1_Iterations_1__10317_Spoon_v1_max0810317_Spoon1
+    second: {fileID: 2100000, guid: e3dce261e63f42847be5c5823152742b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: alluminium composite
+    second: {fileID: 2100000, guid: 0b73b146aba593647b976adad20f5bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 449f5bc3d63914b44b554ad4b312390c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 8e58c2f28d77d5c44a390b4f28af8e3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn10
+    second: {fileID: 2100000, guid: 723c4985f57d23f4a8ace368de8c1718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn11
+    second: {fileID: 2100000, guid: 3ddc8ddbd37fb7847a71c285347b5f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn12
+    second: {fileID: 2100000, guid: a252c2bf6499e374691fc295c5693e1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: c8a9659dad3df1a449b2897540909119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn20
+    second: {fileID: 2100000, guid: 3f52435f5b2190b46862281c81a7947a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn23
+    second: {fileID: 2100000, guid: 15849f7d7b4fd294d816eee26e55cff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn24
+    second: {fileID: 2100000, guid: a327fda8c75c1f04eb1275c76beb399f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn27
+    second: {fileID: 2100000, guid: 4d38603d6ad78054db109551b93b77e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn29
+    second: {fileID: 2100000, guid: 6273e958178c811478b3c357e7552900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn3
+    second: {fileID: 2100000, guid: 25057f3a65414ee4a90b63920bd717b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn30
+    second: {fileID: 2100000, guid: e7832511549e7334687371ce77dcedb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn31
+    second: {fileID: 2100000, guid: 231047bf06783404684400ecf30d66e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn32
+    second: {fileID: 2100000, guid: a7d883b55ee61fb428e143a2437fa04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn33
+    second: {fileID: 2100000, guid: 6d1e3fcc6d3c2d5449aaee417833d81f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn34
+    second: {fileID: 2100000, guid: 23646e5bf1cc4a640a4ac45efdef5787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn36
+    second: {fileID: 2100000, guid: 7b5f647e52d7a3a42ba88ad651a8797c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn4
+    second: {fileID: 2100000, guid: 288acc4996c957a49b1ac4515d7db1e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn5
+    second: {fileID: 2100000, guid: 5f8575c9b080c634ea05d9f78e9b6bff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn6
+    second: {fileID: 2100000, guid: 774b73dc180ec50439c07b443b7efd23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn7
+    second: {fileID: 2100000, guid: 148a7e61c29e6a94bbc490f44e3352af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn8
+    second: {fileID: 2100000, guid: e71f0326f42050d478338d2ad855f5b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn9
+    second: {fileID: 2100000, guid: e740b452959b8ac4ba48d507e8a7c8a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brz_base_com_mat_002
+    second: {fileID: 2100000, guid: 9e9ce23442d380d489feb09e2ebe20a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brz_rose_com_mat_002
+    second: {fileID: 2100000, guid: 6744dd347678bdf44ab95c60b06e80f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brz_stand_com_mat_002
+    second: {fileID: 2100000, guid: 7c0a4e41f92d6624b8b891fd7367e064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ice2
+    second: {fileID: 2100000, guid: 439cb040f0d3edd4da8d5e13365c6c09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 369860223e32a8348a4935b486abd071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1.002
+    second: {fileID: 2100000, guid: a423c830036da094794fc4dc1d18e813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: b744e4e55542d974f8c206c0f7ea346b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: 880c3fbfec97e844489d9b3050bdab5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert19
+    second: {fileID: 2100000, guid: 5ffbf23ba00922d4a91a7e3c09a71312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 649b47027d22b5048b5f13da68e2b575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert20
+    second: {fileID: 2100000, guid: e49349eab72a80d4d93f724d681ccedc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: f163ff1d98e9cdd43ae2b9297bf66de3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ripple_MT_mat_002
+    second: {fileID: 2100000, guid: 77965392838b94442ab03200d557224e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water
+    second: {fileID: 2100000, guid: 114c8b637de37fb468d64377bf46874f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water_MT_mat_002
+    second: {fileID: 2100000, guid: eb6852121e8be3c4d9bf70f80f8df394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water_cup
+    second: {fileID: 2100000, guid: 1d3b71fdef48b794db56d888b6969153, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 10317_Spoon_v1_Diffuse
+    second: {fileID: 2800000, guid: b11a681c7ccf31042978bbeecd43328e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 13493_Round_Table_with _Tablecloth_diff
+    second: {fileID: 2800000, guid: f367ec36bd9400442ac5939106f6bc92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TilesOnyxOpaloBlack001_REFL_3K
+    second: {fileID: 2800000, guid: f0660ac5f66710449a184c57f066407a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brz_base_t
+    second: {fileID: 2800000, guid: d4d3bc9d580d78c489704b6195348f27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brz_rose_t
+    second: {fileID: 2800000, guid: cdf56ed15b9c79c4d8ade1b2034443c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brz_stand_t
+    second: {fileID: 2800000, guid: 6bd7d212080a531429d17daca8fc9a45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brz_w_ripple_t
+    second: {fileID: 2800000, guid: 3b7312e33f3db504ca98c4dd4bc01320, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brz_water_t
+    second: {fileID: 2800000, guid: efe1e0ae03cad5a44a81e71591759602, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cup
+    second: {fileID: 2800000, guid: 46d8fc770b45c9344ad7a2179f4dd11b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: defaultMat_albedo
+    second: {fileID: 2800000, guid: 1a1364ab0bfff974d81ba8f3d122b78e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: snowMan_snowMan_BaseColor
+    second: {fileID: 2800000, guid: 1d042aa359d7c1f45945f6ac1f714c67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: test_mountain_mask
+    second: {fileID: 2800000, guid: 385df08b6042fde4eb1773e6a344063c, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: watercases
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 2616
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

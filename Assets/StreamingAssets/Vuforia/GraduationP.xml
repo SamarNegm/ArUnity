@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="wolf" size="25.000000 33.333332" />
+    <ImageTarget name="landmarks" size="25.000000 36.048950" />
+    <ImageTarget name="landscape" size="25.000000 35.160614" />
+    <ImageTarget name="earthOrbit" size="25.000000 34.971306" />
+    <ImageTarget name="earthorbit2" size="25.000000 33.402924" />
+    <ImageTarget name="jobs" size="25.000000 37.950665" />
+    <ImageTarget name="bee" size="25.000000 33.333332" />
+    <ImageTarget name="watercase2" size="25.000000 37.593987" />
+    <ImageTarget name="solarsystem2" size="25.000000 35.650623" />
+    <ImageTarget name="solarsystem1" size="25.000000 37.950665" />
+    <ImageTarget name="watervapor" size="25.000000 36.563072" />
+  </Tracking>
+</QCARConfig>

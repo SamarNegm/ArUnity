@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 686b502f8822d7e4395d91184ca4ad49
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Earth1
+    100002: Jupiter
+    100004: Mars
+    100006: Mercury1
+    100008: Neptune
+    100010: nurbsCircle1
+    100012: nurbsCircle2
+    100014: nurbsCircle3
+    100016: nurbsCircle4
+    100018: nurbsCircle5
+    100020: nurbsCircle6
+    100022: nurbsCircle7
+    100024: nurbsCircle8
+    100026: pSphere1
+    100028: pTorus1
+    100030: pTorus2
+    100032: pTorus3
+    100034: pTorus4
+    100036: pTorus5
+    100038: pTorus6
+    100040: pTorus7
+    100042: pTorus8
+    100044: Saturn
+    100046: SaturnRing
+    100048: SaturnRing1
+    100050: //RootNode
+    100052: Sun
+    100054: transform1
+    100056: transform2
+    100058: Uranus
+    100060: Venus
+    400000: Earth1
+    400002: Jupiter
+    400004: Mars
+    400006: Mercury1
+    400008: Neptune
+    400010: nurbsCircle1
+    400012: nurbsCircle2
+    400014: nurbsCircle3
+    400016: nurbsCircle4
+    400018: nurbsCircle5
+    400020: nurbsCircle6
+    400022: nurbsCircle7
+    400024: nurbsCircle8
+    400026: pSphere1
+    400028: pTorus1
+    400030: pTorus2
+    400032: pTorus3
+    400034: pTorus4
+    400036: pTorus5
+    400038: pTorus6
+    400040: pTorus7
+    400042: pTorus8
+    400044: Saturn
+    400046: SaturnRing
+    400048: SaturnRing1
+    400050: //RootNode
+    400052: Sun
+    400054: transform1
+    400056: transform2
+    400058: Uranus
+    400060: Venus
+    2100000: pasted__Sun
+    2100002: Mercury
+    2100004: Earth
+    2100006: pasted__Mars
+    2100008: pasted__Venus
+    2100010: pasted__Jupiter
+    2100012: pasted__Uranus
+    2100014: pasted__Neptune
+    2100016: blinn1
+    2100018: CartoonPlanets_SaturnRing
+    2100020: pasted__Saturn
+    2100022: surfaceShader1
+    2300000: Earth1
+    2300002: Jupiter
+    2300004: Mars
+    2300006: Mercury1
+    2300008: Neptune
+    2300010: pSphere1
+    2300012: pTorus1
+    2300014: pTorus2
+    2300016: pTorus3
+    2300018: pTorus4
+    2300020: pTorus5
+    2300022: pTorus6
+    2300024: pTorus7
+    2300026: pTorus8
+    2300028: SaturnRing1
+    2300030: Sun
+    2300032: Uranus
+    2300034: Venus
+    3300000: Earth1
+    3300002: Jupiter
+    3300004: Mars
+    3300006: Mercury1
+    3300008: Neptune
+    3300010: pSphere1
+    3300012: pTorus1
+    3300014: pTorus2
+    3300016: pTorus3
+    3300018: pTorus4
+    3300020: pTorus5
+    3300022: pTorus6
+    3300024: pTorus7
+    3300026: pTorus8
+    3300028: SaturnRing1
+    3300030: Sun
+    3300032: Uranus
+    3300034: Venus
+    4300000: Sun
+    4300002: Mercury1
+    4300004: Earth1
+    4300006: Mars
+    4300008: Venus
+    4300010: Jupiter
+    4300012: Uranus
+    4300014: Neptune
+    4300016: pTorus1
+    4300018: pTorus2
+    4300020: pTorus3
+    4300022: pTorus4
+    4300024: pTorus5
+    4300026: pTorus6
+    4300028: pTorus7
+    4300030: pTorus8
+    4300032: SaturnRing1
+    4300034: pSphere1
+    7400000: SolarSystemAnim
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: 7cd030c7dc1112c45a67910654e73581, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: earthmap1k
+    second: {fileID: 2800000, guid: 47ed7d2b1501ea247b6e2c7b77bb3e58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jupitermap
+    second: {fileID: 2800000, guid: 8aaafae587063e64c853023ed378af4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mars_1k_color
+    second: {fileID: 2800000, guid: ec894fb8c9d2a774aaa44eca9be2053d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mercurymap
+    second: {fileID: 2800000, guid: 7dde6f6442260334fb15f5fe0534d81e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: neptunemap
+    second: {fileID: 2800000, guid: c5ce8675848f4c94387bd3ec348bce02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rings
+    second: {fileID: 2800000, guid: 1d60a3f2d82941d48b003a24618ebe63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: saturn_surface
+    second: {fileID: 2800000, guid: ae031b30d410d4a4cabaf37e19bb186e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sun
+    second: {fileID: 2800000, guid: cb78ee6f0afb6864c906103ef06ceae6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: uranusmap
+    second: {fileID: 2800000, guid: a534ac306bc398a48afa2b9480450a8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: venusmap
+    second: {fileID: 2800000, guid: d6b57b26bc840e64abcd8583e8c0c295, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SolarSystemAnim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
